@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDAL", "IDAL\IDAL.csproj", "{1CA2E8A3-8B6B-46AD-BD0B-B85B15D90165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{720C59F3-7C67-4DEE-9391-FDA2EA552BE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA2E8A3-8B6B-46AD-BD0B-B85B15D90165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA2E8A3-8B6B-46AD-BD0B-B85B15D90165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA2E8A3-8B6B-46AD-BD0B-B85B15D90165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA2E8A3-8B6B-46AD-BD0B-B85B15D90165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720C59F3-7C67-4DEE-9391-FDA2EA552BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720C59F3-7C67-4DEE-9391-FDA2EA552BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720C59F3-7C67-4DEE-9391-FDA2EA552BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720C59F3-7C67-4DEE-9391-FDA2EA552BE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
