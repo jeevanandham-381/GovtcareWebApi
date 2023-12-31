@@ -1,3 +1,8 @@
+using Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+
 namespace Govtcare
 {
     public class Program
@@ -8,7 +13,9 @@ namespace Govtcare
 
             // Add services to the container.
             builder.Services.AddAuthorization();
-
+            builder.Services.AddDbContext<DataBaseContext>(
+                context => context.UseNpgsql(builder.Configuration.GetConnectionString("DatabaseContext"))
+            );
 
             var app = builder.Build();
 

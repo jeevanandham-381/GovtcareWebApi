@@ -9,6 +9,7 @@ namespace Data;
 public class Patient
 {
     public int Id { get; set; }
+    public int HospitalId { get; set; }
     public string Name { get; set; }
     public string FatherName { get; set; }
     public string Phone1 { get; set; }

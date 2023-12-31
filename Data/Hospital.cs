@@ -9,7 +9,8 @@ namespace Data;
 public class Hospital
 {
     public int Id { get; set; }
-    public string DistrictId { get; set; }
+    public int DistrictId { get; set; }
+    public int PatientId {  get; set; } 
     public string Email { get; set; }
     public string Phone { get; set; }
     public string Street { get; set; }
