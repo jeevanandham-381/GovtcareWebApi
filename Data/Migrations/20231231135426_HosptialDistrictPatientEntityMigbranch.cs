@@ -6,7 +6,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace Data.Migrations
 {
-    public partial class HosptialDistrictPatientEntityMig : Migration
+    public partial class HosptialDistrictPatientEntityMigbranch : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

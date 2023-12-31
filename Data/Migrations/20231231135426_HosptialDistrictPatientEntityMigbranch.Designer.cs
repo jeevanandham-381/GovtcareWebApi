@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Data.Migrations
 {
     [DbContext(typeof(DataBaseContext))]
-    [Migration("20231231134102_HosptialDistrictPatientEntityMig")]
-    partial class HosptialDistrictPatientEntityMig
+    [Migration("20231231135426_HosptialDistrictPatientEntityMigbranch")]
+    partial class HosptialDistrictPatientEntityMigbranch
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
