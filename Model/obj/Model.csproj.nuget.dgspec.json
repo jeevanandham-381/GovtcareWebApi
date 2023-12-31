@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Data\\Data.csproj": {}
+    "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Data\\Data.csproj": {
+    "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Data\\Data.csproj",
-        "projectName": "Data",
-        "projectPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\s1129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Data\\obj\\",
+        "outputPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s1129\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,22 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.25, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[6.0.22, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

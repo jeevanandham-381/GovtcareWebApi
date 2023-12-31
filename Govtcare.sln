@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Govtcare", "Govtcare\Govtcare.csproj", "{1A445DAE-9117-4F15-B04E-DAB1BF5C29CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{64681732-B99D-45F4-886F-E7135489810F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{64681732-B99D-45F4-886F-E7135489810F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{64681732-B99D-45F4-886F-E7135489810F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64681732-B99D-45F4-886F-E7135489810F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64681732-B99D-45F4-886F-E7135489810F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C9547E-4FBE-4384-8C5C-F1A7EB1CF47E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

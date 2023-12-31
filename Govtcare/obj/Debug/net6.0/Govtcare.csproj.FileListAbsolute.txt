@@ -40,3 +40,45 @@ C:\Users\s1129\project\Govtcare\Govtcare\Govtcare\bin\Debug\net6.0\Npgsql.Entity
 C:\Users\s1129\project\Govtcare\Govtcare\Govtcare\bin\Debug\net6.0\Data.dll
 C:\Users\s1129\project\Govtcare\Govtcare\Govtcare\bin\Debug\net6.0\Data.pdb
 C:\Users\s1129\project\Govtcare\Govtcare\Govtcare\obj\Debug\net6.0\Govtcare.csproj.AssemblyReference.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\appsettings.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Govtcare.exe
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Govtcare.deps.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Govtcare.runtimeconfig.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Govtcare.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Govtcare.pdb
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Humanizer.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Npgsql.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Data.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Data.pdb
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.csproj.AssemblyReference.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.AssemblyInfoInputs.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.AssemblyInfo.cs
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.csproj.CoreCompileInputs.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\staticwebassets\msbuild.Govtcare.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\staticwebassets\msbuild.build.Govtcare.props
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Govtcare.props
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Govtcare.props
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\scopedcss\bundle\Govtcare.styles.css
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.csproj.CopyComplete
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\refint\Govtcare.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.pdb
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\Govtcare.genruntimeconfig.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\obj\Debug\net6.0\ref\Govtcare.dll
