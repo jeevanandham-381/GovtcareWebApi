@@ -47,6 +47,8 @@ public class HospitalDAL : IHospitalDAL
             obj.Phone = Detail.Phone;
             obj.Fax = Detail.Fax;
             await db.AddAsync(obj);
+            await db.SaveChangesAsync();
+
         }
         catch (Exception ex)
         {
