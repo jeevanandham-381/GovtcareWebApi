@@ -1,0 +1,15 @@
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\bin\Debug\net6.0\IDAL.deps.json
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\bin\Debug\net6.0\IDAL.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\bin\Debug\net6.0\IDAL.pdb
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\bin\Debug\net6.0\Model.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\bin\Debug\net6.0\Model.pdb
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.csproj.AssemblyReference.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.AssemblyInfoInputs.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.AssemblyInfo.cs
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.csproj.CopyComplete
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\refint\IDAL.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\IDAL.pdb
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\IDAL\obj\Debug\net6.0\ref\IDAL.dll

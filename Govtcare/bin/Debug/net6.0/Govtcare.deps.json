@@ -9,6 +9,7 @@
       "Govtcare/1.0.0": {
         "dependencies": {
           "Data": "1.0.0",
+          "IDAL": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.25"
         },
         "runtime": {
@@ -206,6 +207,19 @@
         "runtime": {
           "Data.dll": {}
         }
+      },
+      "IDAL/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "runtime": {
+          "IDAL.dll": {}
+        }
+      },
+      "Model/1.0.0": {
+        "runtime": {
+          "Model.dll": {}
+        }
       }
     }
   },
@@ -363,6 +377,16 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
