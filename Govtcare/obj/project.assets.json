@@ -371,6 +371,21 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Data": "1.0.0",
+          "IDAL": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.25"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -882,6 +897,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Data/Data.csproj",
@@ -900,9 +920,11 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DAL >= 1.0.0",
       "Data >= 1.0.0",
       "IDAL >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.Design >= 6.0.25"
+      "Microsoft.EntityFrameworkCore.Design >= 6.0.25",
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -932,11 +954,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\DAL\\DAL.csproj"
+            },
             "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Data\\Data.csproj": {
               "projectPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Data\\Data.csproj"
             },
             "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\IDAL\\IDAL.csproj": {
               "projectPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\IDAL\\IDAL.csproj"
+            },
+            "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\s1129\\OneDrive - sbnasoftware.com\\Desktop\\WorkSpace\\myProject\\GovtcareWebApi\\Model\\Model.csproj"
             }
           }
         }

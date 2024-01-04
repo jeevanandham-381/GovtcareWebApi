@@ -1,4 +1,6 @@
+using DAL;
 using Data;
+using IDAL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -9,6 +11,7 @@ namespace Govtcare
     {
         public static void Main(string[] args)
         {
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -16,6 +19,8 @@ namespace Govtcare
             builder.Services.AddDbContext<DataBaseContext>(
                 context => context.UseNpgsql(builder.Configuration.GetConnectionString("DatabaseContext"))
             );
+            builder.Services.AddScoped<IHospitalDAL, HospitalDAL>();
+            builder.Services.AddScoped<ILovDAL, LovDAL>();
 
             var app = builder.Build();
 

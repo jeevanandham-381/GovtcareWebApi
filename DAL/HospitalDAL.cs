@@ -25,15 +25,15 @@ public class HospitalDAL : IHospitalDAL
     {
         try
         {
-            HospitalBO obj;
+            Hospital obj;
             if (Detail.Id == 0)
             {
-                obj = new HospitalBO();
+                obj = new Hospital();
                 obj.CreateDate = DateTime.Now;
             }
             else
             {
-                obj = db.hospitals.IgnoreQueryFilters().
+                obj = await db.hospitals.IgnoreQueryFilters().
                     Where(h => h.Id == Detail.Id).FirstOrDefaultAsync();
                 obj.ModifiedDate = DateTime.Now;
             }

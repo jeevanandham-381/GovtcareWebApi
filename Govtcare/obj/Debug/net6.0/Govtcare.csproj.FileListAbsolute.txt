@@ -86,3 +86,5 @@ C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareW
 C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Model.dll
 C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\IDAL.pdb
 C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\Model.pdb
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\DAL.dll
+C:\Users\s1129\OneDrive - sbnasoftware.com\Desktop\WorkSpace\myProject\GovtcareWebApi\Govtcare\bin\Debug\net6.0\DAL.pdb
