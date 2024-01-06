@@ -30,7 +30,6 @@ public class LovDAL : ILovDAL
                 obj = new Lov();
                 db.lov.Add(obj);
                 obj.CreateDate = DateTime.UtcNow;
-                obj.ModifiedDate = null;
             }
             else
             {
