@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Model;
 
 namespace Govtcare.Controller;
-
+[Route("api/[controller]")]
 public class LovController : ControllerBase
 {
     private readonly ILovDAL obj;
@@ -13,7 +13,8 @@ public class LovController : ControllerBase
         this.obj = obj;
         this.logger = logger;
     }
-    public async Task<IActionResult> SavelovValue(LovBO Detail)
+    [HttpPost("saveLov")]
+    public async Task<IActionResult> SavelovValue([FromBody] LovBO Detail)
     {
         try
         {

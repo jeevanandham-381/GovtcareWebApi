@@ -29,13 +29,15 @@ public class LovDAL : ILovDAL
             {
                 obj = new Lov();
                 db.lov.Add(obj);
-                obj.CreateDate = DateTime.Now;
+                obj.CreateDate = DateTime.UtcNow;
+                obj.ModifiedDate = null;
             }
             else
             {
                 obj = await db.lov.Where(l => l.Id == Detail.Id).FirstOrDefaultAsync();
-                obj.ModifiedDate = DateTime.Now; 
+                obj.ModifiedDate = DateTime.UtcNow; 
             }
+            this.logger.LogInformation($"StatusName: {Detail.StatusName}, StatusCode: {Detail.StatusCode}");
             obj.StatusName = Detail.StatusName;
             obj.StatusCode = Detail.StatusCode;
             await db.SaveChangesAsync();

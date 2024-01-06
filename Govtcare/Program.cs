@@ -21,11 +21,11 @@ namespace Govtcare
             );
             builder.Services.AddScoped<IHospitalDAL, HospitalDAL>();
             builder.Services.AddScoped<ILovDAL, LovDAL>();
-
+            builder.Services.AddControllers();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-
+            app.UseRouting();
             app.UseAuthorization();
 
             var summaries = new[]
@@ -44,6 +44,14 @@ namespace Govtcare
                     })
                     .ToArray();
                 return forecast;
+            });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+                endpoints.MapGet("/", async context =>
+                {
+                    await context.Response.WriteAsync("Hello World!");
+                });
             });
 
             app.Run();
