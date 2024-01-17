@@ -21,6 +21,7 @@ namespace Govtcare
             );
             builder.Services.AddScoped<IHospitalDAL, HospitalDAL>();
             builder.Services.AddScoped<ILovDAL, LovDAL>();
+            builder.Services.AddScoped<IDistrictsDAL, DistrictsDAL>();
             builder.Services.AddControllers();
             var app = builder.Build();
 

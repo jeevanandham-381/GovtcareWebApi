@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IDAL;
 
-public interface IHospitalDAL
+public interface IDistrictsDAL
 {
-   Task SaveHospitalAsync(HospitalBO hosppitalBO);
+    Task SaveDistrictsAsync(DistrictsBO Detail);
 }
